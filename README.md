@@ -19,8 +19,9 @@ Execute the program
         <title>Time Table</title>
     </head>
     <body>
+        <img align="center" src="C:\Users\admin\Downloads\saveetha logo.jpg" width="850" alt="Saveetha Engineering College">
 <TABLE BORDER="3" width="1050" bgcolor="white" cellspacing="4" cellpadding="10"> 
-    <img src="C:\Users\admin\Downloads\saveetha logo.jpg" width="850" alt="Saveetha Engineering College">
+    
     <TR> 
         <TH colspan="6" align="center" bgcolor="cyan">TIME TABLE</TH>
     </TR>  
