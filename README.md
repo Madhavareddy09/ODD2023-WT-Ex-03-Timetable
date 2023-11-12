@@ -19,7 +19,8 @@ Execute the program
     <head>
         <title>Time Table</title>
     </head>
-        <img align="center" src="C:\Users\admin\Downloads\saveetha logo.jpg" width="850" alt="Saveetha Engineering College">
+        <img align="center" src=![saveetha logo](https://github.com/Madhavareddy09/ODD2023-WT-Ex-03-Timetable/assets/145742470/3206047b-c33b-457f-95df-a9a627e068b7)
+ width="850" alt="Saveetha Engineering College">
     <body>
 <TABLE BORDER="3" width="1050" bgcolor="white" cellspacing="4" cellpadding="10"> 
     
@@ -82,4 +83,5 @@ Execute the program
 </html>  
 
 # OUTPUT:
-![image]("C:\Users\admin\Pictures\Screenshots\Screenshot 2023-11-11 121945.png")
+![Screenshot 2023-11-11 121945](https://github.com/Madhavareddy09/ODD2023-WT-Ex-03-Timetable/assets/145742470/a940e378-0cf7-49b9-ab1e-587c556731ea)
+
