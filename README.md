@@ -13,7 +13,7 @@ Add your timetable
 Execute the program
 
 # CODE:
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -81,7 +81,7 @@ Execute the program
     </TABLE>
     </body>
 </html>  
-
+```
 # OUTPUT:
 ![Screenshot 2023-11-11 121945](https://github.com/Madhavareddy09/ODD2023-WT-Ex-03-Timetable/assets/145742470/a940e378-0cf7-49b9-ab1e-587c556731ea)
 
